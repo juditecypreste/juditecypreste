@@ -1,4 +1,5 @@
 <samp>
+	
 👋 Olá, meu nome é Judite Cypreste.
 
 💻 Sou jornalista de dados na GloboNews, em SP. Meu trabalho é encontrar pautas através do extração, análise e interpretação de dados.
@@ -9,4 +10,8 @@
 
 🚀 Meu site: [judite.dev](https://judite.dev/)
 
+
 </samp>
+
+<img width="100%"
+src="https://media.giphy.com/media/izbr1AmLEPQTwMct2J/giphy.gif">
