@@ -1,4 +1,5 @@
-### 👋 Olá, meu nome é Judite Cypreste
+<samp>
+### 👋 Olá, meu nome é Judite Cypreste.
 
 💻 Sou jornalista de dados na GloboNews, em SP. Meu trabalho é encontrar pautas através do extração, análise e interpretação de dados.
 
@@ -6,5 +7,7 @@
 
 📝 Já passei antes pelas redações do jornal *Folha de S.Paulo*, *Aos Fatos* e *UOL*. 
 
+**
 🚀 Meu site: [judite.dev](https://judite.dev/)
 ![](florence.gif)
+</samp>
