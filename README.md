@@ -5,3 +5,4 @@ Também sou diretora e co-fundadora do [`@colaboradados`](https://colaboradados.
 
 Já passei antes pelas redações do jornal *Folha de S.Paulo*, *Aos Fatos* e *UOL*. 
 
+![](florence.gif)
