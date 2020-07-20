@@ -8,7 +8,7 @@
 
 📝 Já passei antes pelas redações do jornal *Folha de S.Paulo*, *Aos Fatos* e *UOL*. 
 
-🚀 Meu site: [judite.dev](https://judite.dev/)
+🚀 Meu site: [`judite.dev`](https://judite.dev/)
 
 
 </samp>
