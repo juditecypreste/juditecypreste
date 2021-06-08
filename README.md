@@ -2,7 +2,7 @@
 	
 👋 Olá, meu nome é Judite Cypreste.
 
-💻 Sou jornalista de dados na equipe de dados do jornal Metrópoles. Meu trabalho é encontrar pautas através do extração, análise e interpretação de dados.
+💻 Sou jornalista de dados no (M)Dados, núcleo de jornalismo de dados do portal de notícias Metrópoles. Meu trabalho é encontrar pautas através do extração, análise e interpretação de dados.
 
 🎲 Também sou diretora e co-fundadora do [`@colaboradados`](https://colaboradados.com.br/), o veículo colaborativo sobre transparência e open data no Brasil. Lá, eu produzo e sou apresentadora do primeiro podcast sobre jornalismo de dados no Brasil, o [`Coluna7`](https://colaboradados.com.br/podcast.html). 
 
