@@ -2,9 +2,25 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/juditecypreste?color=eca7ba&label=juditecypreste&logo=twitter&logoColor=eca7ba&style=for-the-badge)](https://twitter.com/juditecypreste/)
 [![LinkedIn](https://shields.io/badge/LinkedIn-judite%20cypreste-eca7ba?logo=LinkedIn&logoColor=eca7ba&style=for-the-badge)](https://www.linkedin.com/in/juditecypreste/)
 
-<samp>	
+    English
+<samp>
 	
-👋 Olá, meu nome é Judite Cypreste.
+👋 Hi, my name is Judite Cypreste. 
+
+💻 I'm a data journalist and I use investigative and data analysis techniques to find good stories.
+
+🎲 I am also the director and co-founder of [`@colaboradados`](https://colaboradados.com.br/), the collaborative vehicle on transparency and open data in Brazil. I was the producer and presenter of the first podcast about data journalism in Brazil, [`Coluna7`](https://colaboradados.com.br/podcast.html).
+
+📝 I have worked in the newsrooms of the newspaper *Folha de S.Paulo*, *Aos Fatos*, *UOL*, *GloboNews* and *Metrópoles*.
+
+🚀 My website: [`juditecypreste.com`](https://juditecypreste.com/)
+
+</samp>
+
+    Português
+<samp>
+	
+👋 Olá, meu nome é Judite Cypreste
 
 💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias.
 
@@ -12,8 +28,7 @@
 
 📝 Já passei antes pelas redações do jornal *Folha de S.Paulo*, *Aos Fatos*, *UOL* e *GloboNews* e *Metrópoles*.
 
-🚀 Meu site: [`judite.dev`](https://judite.dev/)
-
+🚀 Meu site: [`juditecypreste.com`](https://juditecypreste.com/)
 
 </samp>
 
