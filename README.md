@@ -5,7 +5,7 @@
     English
 <samp>
 	
-👋 Hi, my name is Judite Cypreste. 
+👋 Hi, my name is Judite Cypreste. I am currently a data journalist at Rio de Janeiro City Hall.
 
 💻 I'm a data journalist and I use investigative and data analysis techniques to find good stories.
 
@@ -20,9 +20,9 @@
     Português
 <samp>
 	
-👋 Olá, meu nome é Judite Cypreste
-
-💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias.
+👋 Olá, meu nome é Judite Cypreste. Atualmente sou jornalista de dados na Prefeitura da Cidade do Rio de Janeiro.
+	
+💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias. 
 
 🎲 Também sou diretora e co-fundadora do [`@colaboradados`](https://colaboradados.com.br/), o veículo colaborativo sobre transparência e open data no Brasil. Lá, eu produzi e fui apresentadora do primeiro podcast sobre jornalismo de dados no Brasil, o [`Coluna7`](https://colaboradados.com.br/podcast.html). 
 
