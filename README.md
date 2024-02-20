@@ -22,7 +22,7 @@
 	
 👋 Olá, meu nome é Judite Cypreste. Atualmente sou jornalista de dados na Prefeitura da Cidade do Rio de Janeiro.
 	
-💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias. Sou formada em jornalismo de dados pelo Lede Program, curso oferecido pela Universide de Columbia, em NY.
+💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias. Sou formada em jornalismo de dados pelo Lede Program, curso oferecido pela Columbia University, em NY.
 
 🎲 Também sou diretora e co-fundadora do [`@colaboradados`](https://colaboradados.com.br/), o veículo colaborativo sobre transparência e open data no Brasil. Lá, eu produzi e fui apresentadora do primeiro podcast sobre jornalismo de dados no Brasil, o [`Coluna7`](https://colaboradados.com.br/podcast.html). 
 
