@@ -5,13 +5,13 @@
     English
 <samp>
 	
-👋 Hi, my name is Judite Cypreste. I am currently a data journalist at Rio de Janeiro City Hall.
+👋 Hi, my name is Judite Cypreste. 
 
 💻 I'm a data journalist and I use investigative and data analysis techniques to find good stories. I graduated in data journalism from the Lede Program, a course offered by Columbia University in NY.
 
 🎲 I am also the director and co-founder of [`@colaboradados`](https://colaboradados.com.br/), the collaborative vehicle on transparency and open data in Brazil. I was the producer and presenter of the first podcast about data journalism in Brazil, [`Coluna7`](https://colaboradados.com.br/podcast.html).
 
-📝 I have worked in the newsrooms of the newspaper *Folha de S.Paulo*, *Aos Fatos*, *UOL*, *GloboNews* and *Metrópoles*.
+📝 I have worked in the newsrooms of the newspaper *Folha de S.Paulo*, *Aos Fatos*, *UOL*, *GloboNews* and *Metrópoles*. 
 
 🚀 My website: [`juditecypreste.com`](https://juditecypreste.com/)
 
@@ -20,7 +20,7 @@
     Português
 <samp>
 	
-👋 Olá, meu nome é Judite Cypreste. Atualmente sou jornalista de dados na Prefeitura da Cidade do Rio de Janeiro.
+👋 Olá, meu nome é Judite Cypreste. 
 	
 💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias. Sou formada em jornalismo de dados pelo Lede Program, curso oferecido pela Columbia University, em NY.
 
