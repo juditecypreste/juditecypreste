@@ -1,5 +1,4 @@
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/juditecypreste?color=eca7ba&label=juditecypreste&logo=twitter&logoColor=eca7ba&style=for-the-badge)](https://twitter.com/juditecypreste/)
 [![LinkedIn](https://shields.io/badge/LinkedIn-judite%20cypreste-eca7ba?logo=LinkedIn&logoColor=eca7ba&style=for-the-badge)](https://www.linkedin.com/in/juditecypreste/)
 
     English
