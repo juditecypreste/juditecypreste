@@ -7,7 +7,7 @@
 	
 👋 Hi, my name is Judite Cypreste. 
 
-💻 I'm a data journalist and I use investigative and data analysis techniques to find good stories. I graduated in data journalism from the Lede Program, a course offered by Columbia University in NY.
+💻 I am a journalist who uses investigative techniques, data analysis, and extraction to uncover impactful stories. My work involves finding newsworthy topics in data and pursuing compelling narratives. I hold a data journalism degree from the Lede Program, a course offered by Columbia University in NY. Currently, I am a data journalist at g1, Globo's news portal.
 
 🎲 I am also the director and co-founder of [`@colaboradados`](https://colaboradados.com.br/), the collaborative vehicle on transparency and open data in Brazil. I was the producer and presenter of the first podcast about data journalism in Brazil, [`Coluna7`](https://colaboradados.com.br/podcast.html).
 
@@ -22,7 +22,8 @@
 	
 👋 Olá, meu nome é Judite Cypreste. 
 	
-💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias. Sou formada em jornalismo de dados pelo Lede Program, curso oferecido pela Columbia University, em NY.
+💻 Sou uma jornalista que usa técnicas investigativas e de análise e extração de dados para descobrir boas reportagens. Meu trabalho é encontrar pautas em dados e ir atrás de boas histórias. Sou formada em jornalismo de dados pelo Lede Program, curso oferecido pela Columbia University, em NY. Atualmente, sou jornalista de dados no Portal g1, o protal de notícias da Globo.
+
 
 🎲 Também sou diretora e co-fundadora do [`@colaboradados`](https://colaboradados.com.br/), o veículo colaborativo sobre transparência e open data no Brasil. Lá, eu produzi e fui apresentadora do primeiro podcast sobre jornalismo de dados no Brasil, o [`Coluna7`](https://colaboradados.com.br/podcast.html). 
 
